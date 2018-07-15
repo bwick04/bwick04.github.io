@@ -115,7 +115,7 @@ section h2 {
 #mainNav .navbar-nav li.nav-item a.nav-link {
   color: #fff;
 }
-
+EDIT HERE
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
   color: #18BC9C;
 }
@@ -325,7 +325,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color: #465775;
   color: #fff;
 }
 
@@ -346,11 +346,16 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: #fff !important; 
 }
 
+
 .bg-secondary {
-  background-color: #2C3E50 !important;
+  background-color: #EF6F6C !important;
+}
+
+.bg-third {
+  background-color: #465775 !important;
 }
 
 .text-primary {
